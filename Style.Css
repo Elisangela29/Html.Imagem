@@ -1,3 +1,4 @@
+
 :root {
     --bege1: #AB9B6A;
     --bege2: #988752;
@@ -129,3 +130,7 @@ body {
     display: flex;
     flex-direction: row;
     gap: 5px;
+}
+   
+
+    
